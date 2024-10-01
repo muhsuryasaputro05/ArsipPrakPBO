@@ -25,7 +25,7 @@ public class Main {
         produk2.tampilkanInfo();
         System.out.println();
 
-        Pegawai pegawai2 = new PegawaiKontrak("Bagus Sang Surya", 5000000, 6);
+        Pegawai pegawai2 = new PegawaiKontrak("Bagus Sang Suryass", 5000000, 6);
         pegawai2.tampilkanInfo();
     }
 }
